@@ -56,7 +56,7 @@ logo = """
 ╚═════════════════════════════════════════════╝
 ╔═════════════════════════════════════════════╗
 ║ Author   : DANIEZ                            ║
-║ Facebook : https://www.facebook.com/100014926689370║
+║ Facebook : https://www.facebook.com/Zayn.tzyutama║
 ║ Github   : https://github.com/daniezXD        ║
 ╚═════════════════════════════════════════════╝"""
 back = 0
